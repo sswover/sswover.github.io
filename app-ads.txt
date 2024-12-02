@@ -1,4 +1,5 @@
 google.com, pub-6384086337307249, DIRECT, f08c47fec0942fa0
+facebook.com, 1216200052810234, DIRECT, c3e20eee3f780d68
 facebook.com, 3796198427307376, DIRECT, c3e20eee3f780d68
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
